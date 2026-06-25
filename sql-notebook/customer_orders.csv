@@ -1,0 +1,21 @@
+﻿order_id,customer_name,order_date,delivery_date,order_status,total_amount,payment_method,city,courier_id
+1001,Alice Brown,2025-02-01 10:15,2025-02-01 12:30,Delivered,45.5,Credit Card,Toronto,501
+1002,Bob Smith,2025-02-01 11:20,2025-02-01 14:00,Delivered,32.99,PayPal,New York,502
+1003,Charlie Jones,2025-02-01 12:10,NULL,Pending,20.75,Debit Card,Los Angeles,NULL
+1004,David Clark,2025-02-01 9:45,2025-02-01 11:00,Delivered,55,Credit Card,Toronto,503
+1005,Eva Green,2025-02-01 13:30,2025-02-01 16:45,Delivered,75.2,Cash,Vancouver,504
+1006,Frank Adams,2025-02-01 14:15,NULL,Out for Delivery,40,Credit Card,Chicago,505
+1007,Grace Hall,2025-02-01 15:05,2025-02-01 18:30,Delivered,60.4,PayPal,Montreal,506
+1008,Henry King,2025-02-01 16:20,NULL,Pending,25.99,Debit Card,Los Angeles,NULL
+1009,Ian White,2025-02-01 17:40,2025-02-01 20:15,Delivered,90.75,Credit Card,Toronto,501
+1010,Jackie Wong,2025-02-01 16:30,2025-02-01 19:10,Delivered,110,Debit Card,San Francisco,507
+1011,Kevin Lewis,2025-02-01 10:50,NULL,Out for Delivery,47.3,PayPal,Houston,508
+1012,Laura Scott,2025-02-01 9:10,2025-02-01 11:20,Delivered,65.45,Credit Card,Vancouver,509
+1013,Michael Reed,2025-02-01 12:35,NULL,Cancelled,29.5,Cash,New York,NULL
+1014,Nina Patel,2025-02-01 14:50,NULL,Pending,84.99,Credit Card,Chicago,NULL
+1015,Olivia Martin,2025-02-01 11:45,2025-02-01 15:30,Delivered,55.9,Debit Card,Los Angeles,505
+1016,Peter Roberts,2025-02-01 10:25,NULL,Out for Delivery,120,PayPal,Toronto,510
+1017,Quincy Harris,2025-02-01 13:40,2025-02-01 17:00,Delivered,92.35,Credit Card,Montreal,503
+1018,Rachel Kim,2025-02-01 15:20,NULL,Pending,39,Debit Card,San Francisco,NULL
+1019,Sam Wilson,2025-02-01 16:10,NULL,Cancelled,72.8,Cash,Chicago,NULL
+1020,Tina Chang,2025-02-01 9:55,2025-02-01 12:40,Delivered,55.6,PayPal,Toronto,501

@@ -1,0 +1,5 @@
+jupyterlab
+ipython-sql
+sqlalchemy
+pandas
+prettytable==2.5.0
